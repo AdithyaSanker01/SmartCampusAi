@@ -1,0 +1,6 @@
+{
+  "name": "Smart Campus AI",
+  "description": "An Intelligent Student Assistant using Natural Language Processing, Machine Learning, Semantic Search, Computer Vision OCR preprocessing, and Sentiment Analysis for academic notices and campus documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
